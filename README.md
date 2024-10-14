@@ -1,2 +1,2 @@
 # CallPro
-Message Pro golang rest-api
+Message Pro golang implementation
